@@ -9,5 +9,6 @@ public class ideaProject {
         System.out.println("hot-fix branch");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("github update");
     }
 }
